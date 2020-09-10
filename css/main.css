@@ -266,7 +266,7 @@ main p {
 
 @media (min-width: 1200px) {
     .flex-items {
-      flex-basis: 25%;
+      flex-basis: 24%;
       border-bottom: none;
       padding: 1em;
     }
