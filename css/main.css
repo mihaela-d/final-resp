@@ -262,6 +262,10 @@ main p {
     .flex-items p {
       padding: 1em;
     }
+   
+    main p {
+    	background: rgba(104,104,104,0.6);
+    }
 }
 
 @media (min-width: 1200px) {
